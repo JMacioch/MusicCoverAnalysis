@@ -1,5 +1,6 @@
 # Default ignored files
-/shelf/
-/workspace.xml
+**/shelf/
+**/workspace.xml
 
-/DNN/my_dir/
+**/my_dir/
+**/.env
